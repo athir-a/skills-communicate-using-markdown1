@@ -14,3 +14,6 @@ class example
      }
 }
 ```
+- [x] java is the name of a banana
+- [x] java banana is blue
+- [ ] this information is contributing to society
